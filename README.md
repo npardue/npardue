@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on: Finding employment opportunities at companies seeking an entry level data scientist or data analyst that is passionate about growth and collaboration
 - 🏆 Accomplishments I'm proud of:
-  -  Between 2015 and 2020, I was chosen to train nine Starbucks baristas across three different stores
+  -  Between 2015 and 2020, I was asked to train nine Starbucks baristas across three different stores
   -  In 2019, I won my district's [Starbucks Barista Championship](https://www.youtube.com/watch?v=fYMMnYHdEFA)
-  -  I was 1 of 8 baristas chosen to participate in the [2019 Starbucks Leadership Experience](https://stories.starbucks.com/stories/2019/12000-starbucks-partners-gather-in-chicago-for-transformative-leadership-experience/), where I had the opportunity to make pour-overs for, and connect with some of the 12,000+ management and corporate partners from all over North America
+  -  I was 1 of 8 baristas selected to participate in the [2019 Starbucks Leadership Experience](https://stories.starbucks.com/stories/2019/12000-starbucks-partners-gather-in-chicago-for-transformative-leadership-experience/), where I had the opportunity to make pour-overs for, and connect with some of the 12,000+ management and corporate partners from all over North America
 - 🧠 I’m currently learning: Algorithm techniques, Ruby, and JavaScript
 - 💬 Ask me about: Basketball, Music, Video Games, Data Visualization, Coffee
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/npardue/) | <nickpardue@gmail.com>
