@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey! My name's Nick. ✌🏽
+
+## I'm a highly motivated, results-driven data scientist with a background in psychology, sports, and team leadership. Python | Ruby | SQL | Tableau
+
+- 🔭 I’m currently working on: Finding employment opportunities at companies seeking an entry level data scientist or data analyst that is passionate about growth and collaboration
+- 🧠 I’m currently learning: Algorithm techniques, Ruby, and JavaScript
+- 💬 Ask me about: Basketball, Football, Video Games, Data Visualization, Coffee
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/npardue/) | <nickpardue@gmail.com>
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: ...
 
 <!--
 **npardue/npardue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
