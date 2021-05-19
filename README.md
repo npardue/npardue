@@ -1,6 +1,6 @@
-### Hey! My name's Nick. ✌🏽
+## Hey! My name's Nick. ✌🏽
 
-## I'm a highly motivated, results-driven data scientist with a background in psychology, sports, and team leadership. Python | Ruby | SQL | Tableau
+### I'm a highly motivated, results-driven data scientist with a background in psychology, sports, and team leadership. Python | Ruby | SQL | Tableau
 
 - 🔭 I’m currently working on: Finding employment opportunities at companies seeking an entry level data scientist or data analyst that is passionate about growth and collaboration
 - 🏆 Accomplishments I'm proud of:
