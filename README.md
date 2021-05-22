@@ -9,7 +9,6 @@
   -  I was 1 of 8 baristas selected to participate in the [2019 Starbucks Leadership Experience](https://stories.starbucks.com/stories/2019/12000-starbucks-partners-gather-in-chicago-for-transformative-leadership-experience/), where I had the opportunity to make pour-overs for, and connect with some of the 12,000+ management and corporate partners from all over North America
 - 🧠 I’m currently learning: Algorithm techniques, Ruby, and JavaScript
 - 💬 Ask me about: Basketball, Music, Video Games, Data Visualization, Coffee
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/npardue/) | <nickpardue@gmail.com>
 - 😄 Pronouns: he/him/his
 
 <hr>
@@ -17,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span align="center">
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=npardue&count_private=true&langs_count=5&theme=shades-of-purple&hide=jupyter%20notebook)]()
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=npardue&count_private=true&theme=shades-of-purple&showicons=true)]()
  </span>
 
@@ -33,6 +32,18 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  
+ <hr>
+
+<h2  align="center">👇🏽 Find me here</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/npardue/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nickpardue@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.twitter.com/nickpardue/"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://discordapp.com/users/Ncck 🤙🏽#0824/"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
 
 
 <!--
