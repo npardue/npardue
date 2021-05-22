@@ -1,4 +1,4 @@
-## Hey! My name's Nick. ✌🏽
+## Hey! Thanks for stopping by. 😄✌🏽
 
 ### I'm a highly motivated, results-driven data scientist with a background in psychology, sports, and team leadership.
 
