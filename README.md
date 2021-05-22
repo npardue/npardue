@@ -16,7 +16,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span align="center">
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=npardue&count_private=true&langs_count=5&theme=shades-of-purple&layout=compact&hide=jupyter%20notebook)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=npardue&count_private=true&langs_count=5&theme=shades-of-purple&hide=jupyter%20notebook)]()
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=npardue&count_private=true&theme=shades-of-purple&showicons=true)]()
  </span>
