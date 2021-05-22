@@ -1,6 +1,6 @@
 ## Hey! My name's Nick. ✌🏽
 
-### I'm a highly motivated, results-driven data scientist with a background in psychology, sports, and team leadership. Python | Ruby | SQL | Tableau
+### I'm a highly motivated, results-driven data scientist with a background in psychology, sports, and team leadership.
 
 - 🔭 I’m currently working on: Finding employment opportunities at companies seeking an entry level data scientist or data analyst that is passionate about growth and collaboration
 - 🏆 Accomplishments I'm proud of:
@@ -12,12 +12,27 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/npardue/) | <nickpardue@gmail.com>
 - 😄 Pronouns: he/him/his
 
+<hr>
 
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=npardue&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span align="center">
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=npardue&count_private=true&langs_count=5&theme=shades-of-purple&layout=compact&hide=jupyter%20notebook)]()
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=npardue&count_private=true&theme=shades-of-purple&showicons=true)]()
+ </span>
 
 
+<hr>
 
+
+<h2 align="center">👨🏽‍💻 Languages</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 
 
 <!--
