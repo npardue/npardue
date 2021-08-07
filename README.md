@@ -1,13 +1,13 @@
 ## Hey! Thanks for stopping by. 😄✌🏽
 
-### I'm a highly motivated, results-driven data scientist with a background in psychology, sports, and team leadership.
+### I'm a highly motivated, Black, neurodivergent data scientist with a background in psychology, sports, and team leadership.
 
 - 🔭 I’m currently working on: Finding employment opportunities at companies seeking an entry level data scientist or data analyst that is passionate about growth and collaboration
 - 🏆 Accomplishments I'm proud of:
   -  Between 2015 and 2020, I was asked to train nine Starbucks baristas across three different stores
   -  In 2019, I won my district's [Starbucks Barista Championship](https://www.youtube.com/watch?v=fYMMnYHdEFA)
-  -  I was 1 of 8 baristas selected to participate in the [2019 Starbucks Leadership Experience](https://stories.starbucks.com/stories/2019/12000-starbucks-partners-gather-in-chicago-for-transformative-leadership-experience/), where I had the opportunity to make pour-overs for, and connect with some of the 12,000+ management and corporate partners from all over North America
-- 🧠 I’m currently learning: Algorithm techniques, Ruby, and JavaScript
+  -  I was 1 of 8 baristas selected to participate in the [2019 Starbucks Leadership Experience](https://stories.starbucks.com/stories/2019/12000-starbucks-partners-gather-in-chicago-for-transformative-leadership-experience/), where I had the opportunity to connect face-toface with some of the 12,000+ management and corporate partners from all over North America
+- 🧠 I’m currently learning: Algorithm techniques, and always more Tableau techniques
 - 💬 Ask me about: Basketball, Music, Video Games, Data Visualization, Coffee
 - 😄 Pronouns: he/him/his
 
@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   
  <hr>
@@ -39,8 +38,10 @@
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/npardue/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nickpardue@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://public.tableau.com/app/profile/nick.pardue"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.twitter.com/nickpardue/"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://discordapp.com/users/Ncck 🤙🏽#0824/"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 <hr>
