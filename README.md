@@ -2,7 +2,7 @@
 
 ### I'm a highly motivated, Black, neurodivergent data scientist with a background in psychology, sports, and team leadership.
 
-- 🔭 I’m currently working on: Finding employment opportunities at companies seeking an entry level data scientist or data analyst that is passionate about growth and collaboration
+- 🔭 I’m currently working on: Finding employment opportunities at companies seeking a Tableau developer or data analyst that is passionate about growth and collaboration
 - 🏆 Accomplishments I'm proud of:
   -  Between 2015 and 2020, I was asked to train nine Starbucks baristas across three different stores
   -  In 2019, I won my district's [Starbucks Barista Championship](https://www.youtube.com/watch?v=fYMMnYHdEFA)
