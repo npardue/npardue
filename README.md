@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on: Finding employment opportunities at companies seeking a Tableau developer or data analyst that is passionate about growth and collaboration
 - 🏆 Accomplishments I'm proud of:
+  -  [Tableau Desktop Specialist certificate](https://www.credly.com/badges/29726823-7a0e-45cd-8600-e8f3046dd545?source=linked_in_profile)
   -  Between 2015 and 2020, I was asked to train nine Starbucks baristas across three different stores
   -  In 2019, I won my district's [Starbucks Barista Championship](https://www.youtube.com/watch?v=fYMMnYHdEFA)
   -  I was 1 of 8 baristas selected to participate in the [2019 Starbucks Leadership Experience](https://stories.starbucks.com/stories/2019/12000-starbucks-partners-gather-in-chicago-for-transformative-leadership-experience/), where I had the opportunity to connect face-toface with some of the 12,000+ management and corporate partners from all over North America
